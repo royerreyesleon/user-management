@@ -1,8 +1,10 @@
 <?php
 use app\assets\AppAsset;
 use webvimark\modules\UserManagement\UserManagementModule;
-use yii\bootstrap\BootstrapAsset;
-use yii\helpers\Html;
+// use yii\bootstrap\BootstrapAsset;
+// use yii\helpers\Html;
+use yii\bootstrap5\BootstrapAsset;
+use yii\bootstrap5\Html;
 
 /* @var $this \yii\web\View */
 /* @var $content string */

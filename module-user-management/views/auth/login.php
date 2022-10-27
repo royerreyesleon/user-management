@@ -6,8 +6,10 @@
 
 use webvimark\modules\UserManagement\components\GhostHtml;
 use webvimark\modules\UserManagement\UserManagementModule;
-use yii\bootstrap\ActiveForm;
-use yii\helpers\Html;
+// use yii\bootstrap\ActiveForm;
+// use yii\helpers\Html;
+use yii\bootstrap5\ActiveForm;
+use yii\bootstrap5\Html;
 ?>
 
 <div class="container" id="login-wrapper">
